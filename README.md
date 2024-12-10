@@ -9,3 +9,8 @@
 [click to view](https://asciinema.org/a/rdpvvUeOTZe6pI9ICO9feQp0B)
 
 [![asciicast](https://asciinema.org/a/rdpvvUeOTZe6pI9ICO9feQp0B.svg)](https://asciinema.org/a/rdpvvUeOTZe6pI9ICO9feQp0B)
+
+### Brain-calc:
+[click to view](https://asciinema.org/a/QYwcw7vfaV6KR3TdqT7OyPca3)
+
+[![asciicast](https://asciinema.org/a/QYwcw7vfaV6KR3TdqT7OyPca3.svg)](https://asciinema.org/a/QYwcw7vfaV6KR3TdqT7OyPca3)
