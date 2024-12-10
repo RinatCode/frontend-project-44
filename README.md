@@ -3,3 +3,9 @@
 
 ### Maintainability:
 [![Maintainability](https://api.codeclimate.com/v1/badges/8bfdb0b2b950f71c7c09/maintainability)](https://codeclimate.com/github/RinatCode/frontend-project-44/maintainability)
+
+
+## Brain-even:
+[text](https://asciinema.org/a/rdpvvUeOTZe6pI9ICO9feQp0B)
+
+[![asciicast](https://asciinema.org/a/rdpvvUeOTZe6pI9ICO9feQp0B.svg)](https://asciinema.org/a/rdpvvUeOTZe6pI9ICO9feQp0B)
