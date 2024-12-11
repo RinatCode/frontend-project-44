@@ -14,3 +14,8 @@
 [click to view](https://asciinema.org/a/QYwcw7vfaV6KR3TdqT7OyPca3)
 
 [![asciicast](https://asciinema.org/a/QYwcw7vfaV6KR3TdqT7OyPca3.svg)](https://asciinema.org/a/QYwcw7vfaV6KR3TdqT7OyPca3)
+
+### Brain-GCD:
+[click to view](https://asciinema.org/a/diD5gv8xOim4nlehQJhUSdHro)
+
+[![asciicast](https://asciinema.org/a/diD5gv8xOim4nlehQJhUSdHro.svg)](https://asciinema.org/a/diD5gv8xOim4nlehQJhUSdHro)
