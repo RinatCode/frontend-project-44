@@ -19,3 +19,10 @@
 [click to view](https://asciinema.org/a/diD5gv8xOim4nlehQJhUSdHro)
 
 [![asciicast](https://asciinema.org/a/diD5gv8xOim4nlehQJhUSdHro.svg)](https://asciinema.org/a/diD5gv8xOim4nlehQJhUSdHro)
+
+### Brain-progression:
+[click to view](https://asciinema.org/a/yoZxHo9HeV80KHtdfZiVw4sk9)
+
+<a href="https://asciinema.org/a/yoZxHo9HeV80KHtdfZiVw4sk9" target="_blank"><img src="https://asciinema.org/a/yoZxHo9HeV80KHtdfZiVw4sk9.svg" /></a>
+
+[![asciicast](https://asciinema.org/a/yoZxHo9HeV80KHtdfZiVw4sk9.svg)](https://asciinema.org/a/yoZxHo9HeV80KHtdfZiVw4sk9)
