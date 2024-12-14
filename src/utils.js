@@ -22,4 +22,11 @@ const isPrime = (num) => {
   return true;
 };
 
-export { randomIntegerFunc, gcd, isPrime };
+const isEven = (int) => (int % 2);
+
+export {
+  randomIntegerFunc,
+  gcd,
+  isPrime,
+  isEven,
+};
